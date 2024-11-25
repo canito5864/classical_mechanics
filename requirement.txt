@@ -1,0 +1,4 @@
+streamlit==1.38.0
+numpy==1.21.6
+matplotlib>=3.4
+mpl_toolkits
